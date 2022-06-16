@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: testRunner.TestRunnerClass
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 25.679 s <<< FAILURE! - in testRunner.TestRunnerClass
+Search items count(Ebay home page)  Time elapsed: 24.878 s  <<< FAILURE!
+java.lang.AssertionError: The item count is less than 1000000
+
